@@ -19,4 +19,7 @@
 /fuel/app/logs/*/*/*
 /fuel/app/cache/*/*
 /fuel/app/config/crypt.php
+*.swp
 /skip
+!s2.txt
+/test/*.txt
